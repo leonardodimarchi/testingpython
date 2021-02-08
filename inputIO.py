@@ -1,4 +1,4 @@
-#This file is just to test some wierd stuff 
+#This file is just to test some wierd stuff on IO 
 #x = int(input("Digite um numero: "))
 #y =  int(input("Digite um segundo numero: "))
 
