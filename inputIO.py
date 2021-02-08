@@ -1,0 +1,7 @@
+#x = int(input("Digite um numero: "))
+#y =  int(input("Digite um segundo numero: "))
+
+variables = x1, x2 = 52, 6
+
+print(variables,"\n",x1,"\n",x2)
+
