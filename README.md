@@ -1,3 +1,3 @@
 # testingpython 
 
-Just messing up with python basics 
+Just messing around with python basics 
